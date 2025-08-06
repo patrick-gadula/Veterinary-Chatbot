@@ -1,31 +1,39 @@
-# Veterinary Clinical Case Assistant
+# 🐶 Veterinary Clinical Case Assistant
 
-VetChatbot is a domain-specific NLP assistant for veterinary medicine. It assists with clinical case analysis, diagnostics, and treatment planning, aimed at supporting both veterinary professionals and students.
+**VetChatbot** is a domain-specific NLP assistant designed to support veterinary professionals and students with clinical case analysis, diagnostics, and treatment planning.
+
+---
 
 ## 🔍 Features
 
-- **Text-Retrieval QA Pipeline**: Uses textbook + clinical case corpus to retrieve relevant documents.
-- **Embedding Model**: Leverages OpenAI's `text-embedding-3-small` for dense semantic vector generation.
-- **Vector Store**: FAISS-based retrieval over the embedded documents.
-- **Keyword-Based Matching**: TF-IDF keyword extraction to highlight relevant medical terms.
-- **LLM Integration**: ChatOpenAI powers natural language responses to user queries.
-- **Hybrid Pipeline**: RAG-based system combines retrieval + generation for accurate responses.
+- **Text-Retrieval QA Pipeline** – Retrieves relevant documents from a clinical case and textbook corpus.
+- **Embedding Model** – Uses OpenAI’s `text-embedding-3-small` to generate dense semantic vectors.
+- **Vector Store** – FAISS-based similarity search over embedded data.
+- **Keyword-Based Matching** – TF-IDF highlights relevant medical terms.
+- **LLM Integration** – ChatOpenAI generates responses based on retrieved content.
+- **Hybrid Pipeline** – RAG architecture combines retrieval and generation.
 
-## 💻 Technologies
+---
 
-- **LangChain** for orchestration of retriever, prompt templates, and LLM agent.
-- **FAISS** for vector similarity search.
-- **TF-IDF** via `TfidfVectorizer` to score keywords per query.
-- **Streamlit** or CLI for interaction.
-- **OpenAI API** for embeddings + chat generation.
+## 💻 Technologies Used
+
+- `LangChain` – Orchestrates retriever, LLM, and prompts.
+- `FAISS` – Vector-based document retrieval.
+- `TfidfVectorizer` – TF-IDF keyword extraction.
+- `Streamlit` or CLI – For interactive user experience.
+- `OpenAI API` – Embedding and chat completion.
+
+---
 
 ## 🐾 Use Cases
 
-- **Veterinary Students**: Simulates clinical case reasoning.
-- **Practicing Vets**: Rapid query response on rare or complex cases.
-- **Education**: Enables exploration of differentials, treatments, and diagnostics.
+- **Veterinary Students** – Simulate reasoning through clinical cases.
+- **Practicing Veterinarians** – Get quick responses on rare/complex cases.
+- **Educators** – Enable deeper exploration of differentials, treatments, diagnostics.
 
-## 📂 File Structure (Example)
+---
+
+## 📁 File Structure
 
 ```
 vet-chatbot/
@@ -43,32 +51,38 @@ vet-chatbot/
 └── README.md
 ```
 
-## 🛠️ Setup
+---
 
-```bash
-pip install -r requirements.txt
-```
+## ⚙️ Setup
 
-Add your OpenAI API key to `.env`:
+1. Install dependencies:
+   ```bash
+   pip install -r requirements.txt
+   ```
 
-```
-OPENAI_API_KEY=your_key_here
-```
+2. Add your OpenAI API key to a `.env` file:
+   ```env
+   OPENAI_API_KEY=your_key_here
+   ```
 
-## 🚀 Run
+---
 
+## 🚀 Run the Project
+
+Run from terminal:
 ```bash
 python main.py
 ```
 
-Or for Streamlit UI:
-
+Or launch the Streamlit UI:
 ```bash
 streamlit run main.py
 ```
 
-## 📌 Notes
+---
 
-- Ensure all texts are pre-cleaned and tokenized.
-- TF-IDF and embeddings are cached after first run.
-- Current version focuses on small animal medicine.
+## 🧠 Notes
+
+- Ensure texts are pre-cleaned and tokenized.
+- TF-IDF scores and embeddings are cached after the first run.
+- Currently optimized for small animal medicine.
