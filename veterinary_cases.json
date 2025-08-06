@@ -1,0 +1,482 @@
+[
+    {
+        "Animal Type": "Canine",
+        "Breed": "Golden Retriever",
+        "Age": 6,
+        "Medical History": "Treated for ethylene glycol toxicity after accidental antifreeze ingestion.",
+        "Symptoms": "Vomiting, ataxia, depression, polyuria, and polydipsia.",
+        "Blood test results": "Metabolic acidosis and calcium oxalate crystals in urine.",
+        "Diagnosis": "Ethylene glycol toxicity.",
+        "Treatment": "Fomepizole, IV fluids, and supportive care."
+    },
+    {
+        "Animal Type": "Feline",
+        "Breed": "Siamese",
+        "Age": 8,
+        "Medical History": "Chronic kidney disease managed with low-protein diet.",
+        "Symptoms": "Polyuria, polydipsia, weight loss, and lethargy.",
+        "Blood test results": "Elevated creatinine and BUN levels.",
+        "Diagnosis": "Chronic kidney disease.",
+        "Treatment": "Dietary management, phosphate binders, and subcutaneous fluids."
+    },
+    {
+        "Animal Type": "Equine",
+        "Breed": "Thoroughbred",
+        "Age": 10,
+        "Medical History": "No significant prior conditions.",
+        "Symptoms": "Intermittent colic, hematuria, and abdominal pain.",
+        "Blood test results": "Mild azotemia.",
+        "Diagnosis": "Urolithiasis.",
+        "Treatment": "Surgical removal of bladder stones and supportive care."
+    },
+    {
+        "Animal Type": "Reptile",
+        "Breed": "Green Iguana",
+        "Age": 4,
+        "Medical History": "Previously treated for hypocalcemia.",
+        "Symptoms": "Lethargy, anorexia, and swollen joints.",
+        "Blood test results": "Elevated calcium and phosphorus levels.",
+        "Diagnosis": "Metabolic bone disease.",
+        "Treatment": "Calcium supplementation, UVB light therapy, and dietary adjustments."
+    },
+    {
+        "Animal Type": "Canine",
+        "Breed": "Beagle",
+        "Age": 3,
+        "Medical History": "Recent antibiotic treatment for otitis.",
+        "Symptoms": "Increased thirst and urination, lethargy.",
+        "Blood test results": "Elevated creatinine and low urine specific gravity.",
+        "Diagnosis": "Acute kidney injury due to aminoglycoside toxicity.",
+        "Treatment": "Discontinuation of antibiotic, IV fluids, and renal support."
+    },
+    {
+        "Animal Type": "Feline",
+        "Breed": "Maine Coon",
+        "Age": 5,
+        "Medical History": "Previously treated for hyperthyroidism.",
+        "Symptoms": "Vomiting, diarrhea, and muscle tremors.",
+        "Blood test results": "Elevated calcium levels.",
+        "Diagnosis": "Hypercalcemia due to primary hyperparathyroidism.",
+        "Treatment": "Surgical removal of parathyroid adenoma and supportive care."
+    },
+    {
+        "Animal Type": "Canine",
+        "Breed": "German Shepherd",
+        "Age": 7,
+        "Medical History": "Managed for epilepsy.",
+        "Symptoms": "Severe vomiting, abdominal pain, and collapse.",
+        "Blood test results": "Elevated liver enzymes and low albumin.",
+        "Diagnosis": "Acute pancreatitis.",
+        "Treatment": "Nutritional support, antiemetics, and pain management."
+    },
+    {
+        "Animal Type": "Feline",
+        "Breed": "Persian",
+        "Age": 10,
+        "Medical History": "Chronic urinary tract infections.",
+        "Symptoms": "Dysuria, hematuria, and pollakiuria.",
+        "Blood test results": "No systemic abnormalities detected.",
+        "Diagnosis": "Idiopathic cystitis.",
+        "Treatment": "Environmental enrichment, stress reduction, and dietary therapy."
+    },
+    {
+        "Animal Type": "Canine",
+        "Breed": "Dalmatian",
+        "Age": 5,
+        "Medical History": "History of struvite urolithiasis.",
+        "Symptoms": "Hematuria, pollakiuria, and straining to urinate.",
+        "Blood test results": "No significant abnormalities.",
+        "Diagnosis": "Recurrence of struvite urolithiasis.",
+        "Treatment": "Urinary acidifiers, prescription diet, and monitoring."
+    },
+    {
+        "Animal Type": "Avian",
+        "Breed": "Cockatiel",
+        "Age": 2,
+        "Medical History": "No prior illnesses.",
+        "Symptoms": "Feather loss, lethargy, and regurgitation.",
+        "Blood test results": "Elevated white blood cell count.",
+        "Diagnosis": "Avian chlamydiosis.",
+        "Treatment": "Doxycycline therapy and environmental decontamination."
+    },
+    {
+        "Animal Type": "Canine",
+        "Breed": "Boxer",
+        "Age": 8,
+        "Medical History": "Benign prostatic hyperplasia managed with finasteride.",
+        "Symptoms": "Dysuria, blood-tinged urine, and straining to defecate.",
+        "Blood test results": "Mildly elevated PSA levels.",
+        "Diagnosis": "Prostatic adenocarcinoma.",
+        "Treatment": "Palliative care, NSAIDs, and chemotherapy."
+    },
+    {
+        "Animal Type": "Reptile",
+        "Breed": "Corn Snake",
+        "Age": 1,
+        "Medical History": "No significant history.",
+        "Symptoms": "Lethargy, decreased appetite, and abnormal shedding.",
+        "Blood test results": "Hypocalcemia.",
+        "Diagnosis": "Nutritional secondary hyperparathyroidism.",
+        "Treatment": "Calcium supplementation, UVB lighting, and dietary corrections."
+    },
+    {
+        "Animal Type": "Feline",
+        "Breed": "Bengal",
+        "Age": 4,
+        "Medical History": "Intermittent diarrhea managed with probiotics.",
+        "Symptoms": "Weight loss, vomiting, and poor coat condition.",
+        "Blood test results": "Elevated globulins.",
+        "Diagnosis": "Feline inflammatory bowel disease.",
+        "Treatment": "Corticosteroids, hypoallergenic diet, and probiotics."
+    },
+    {
+        "Animal Type": "Canine",
+        "Breed": "Cocker Spaniel",
+        "Age": 6,
+        "Medical History": "No significant conditions.",
+        "Symptoms": "Bilateral cataracts and increased thirst.",
+        "Blood test results": "Hyperglycemia.",
+        "Diagnosis": "Diabetes mellitus.",
+        "Treatment": "Insulin therapy and dietary management."
+    },
+    {
+        "Animal Type": "Equine",
+        "Breed": "Arabian",
+        "Age": 12,
+        "Medical History": "Treated for laminitis 2 years ago.",
+        "Symptoms": "Reluctance to walk, heat in hooves, and bounding digital pulses.",
+        "Blood test results": "Elevated blood glucose levels.",
+        "Diagnosis": "Equine metabolic syndrome with recurrent laminitis.",
+        "Treatment": "Dietary management, weight loss, and corrective shoeing."
+    },
+    {
+        "Animal Type": "Canine",
+        "Breed": "Labrador Retriever",
+        "Age": 10,
+        "Medical History": "Arthritis managed with NSAIDs.",
+        "Symptoms": "Limping, reluctance to climb stairs, and stiffness after rest.",
+        "Blood test results": "No abnormalities detected.",
+        "Diagnosis": "Chronic arthritis.",
+        "Treatment": "NSAIDs, joint supplements, and physical therapy."
+    },
+    {
+        "Animal Type": "Feline",
+        "Breed": "Domestic Longhair",
+        "Age": 7,
+        "Medical History": "Previously treated for flea allergy dermatitis.",
+        "Symptoms": "Intense pruritus, hair loss, and scabs on neck and back.",
+        "Blood test results": "Eosinophilia detected.",
+        "Diagnosis": "Flea allergy dermatitis.",
+        "Treatment": "Flea control, antihistamines, and corticosteroids."
+    },
+    {
+        "Animal Type": "Canine",
+        "Breed": "Border Collie",
+        "Age": 5,
+        "Medical History": "No significant conditions.",
+        "Symptoms": "Seizures, ataxia, and behavioral changes.",
+        "Blood test results": "Elevated liver enzymes.",
+        "Diagnosis": "Hepatic encephalopathy due to portosystemic shunt.",
+        "Treatment": "Surgical correction and dietary management."
+    },
+    {
+        "Animal Type": "Equine",
+        "Breed": "Quarter Horse",
+        "Age": 15,
+        "Medical History": "Recurrent airway obstruction managed seasonally.",
+        "Symptoms": "Coughing, nasal discharge, and increased respiratory effort.",
+        "Blood test results": "Mild hypoxemia.",
+        "Diagnosis": "Recurrent airway obstruction (heaves).",
+        "Treatment": "Environmental management, bronchodilators, and corticosteroids."
+    },
+    {
+        "Animal Type": "Avian",
+        "Breed": "Macaw",
+        "Age": 3,
+        "Medical History": "No significant prior conditions.",
+        "Symptoms": "Weight loss, lethargy, and regurgitation.",
+        "Blood test results": "Elevated white blood cell count.",
+        "Diagnosis": "Psittacosis.",
+        "Treatment": "Doxycycline and supportive care."
+    },
+    {
+        "Animal Type": "Reptile",
+        "Breed": "Bearded Dragon",
+        "Age": 2,
+        "Medical History": "No significant prior conditions.",
+        "Symptoms": "Lethargy, sunken eyes, and dehydration.",
+        "Blood test results": "Hypocalcemia and hyperphosphatemia.",
+        "Diagnosis": "Nutritional metabolic bone disease.",
+        "Treatment": "Calcium and vitamin D3 supplementation, UVB light."
+    },
+    {
+        "Animal Type": "Feline",
+        "Breed": "Russian Blue",
+        "Age": 6,
+        "Medical History": "No prior conditions.",
+        "Symptoms": "Chronic vomiting, weight loss, and diarrhea.",
+        "Blood test results": "Elevated serum globulins.",
+        "Diagnosis": "Lymphocytic-plasmacytic enteritis.",
+        "Treatment": "Corticosteroids, novel protein diet, and probiotics."
+    },
+    {
+        "Animal Type": "Canine",
+        "Breed": "Shih Tzu",
+        "Age": 8,
+        "Medical History": "Treated for heart murmur with ACE inhibitors.",
+        "Symptoms": "Exercise intolerance, cough, and fainting episodes.",
+        "Blood test results": "Elevated NT-proBNP levels.",
+        "Diagnosis": "Chronic mitral valve disease.",
+        "Treatment": "Diuretics, ACE inhibitors, and dietary sodium restriction."
+    },
+    {
+        "Animal Type": "Feline",
+        "Breed": "Sphynx",
+        "Age": 4,
+        "Medical History": "No significant prior conditions.",
+        "Symptoms": "Intermittent sneezing, nasal discharge, and conjunctivitis.",
+        "Blood test results": "PCR positive for feline herpesvirus.",
+        "Diagnosis": "Feline herpesvirus infection.",
+        "Treatment": "L-lysine supplementation and supportive care."
+    },
+    {
+        "Animal Type": "Equine",
+        "Breed": "Clydesdale",
+        "Age": 11,
+        "Medical History": "Previously treated for hoof abscess.",
+        "Symptoms": "Weight-bearing lameness and swelling in distal limb.",
+        "Blood test results": "Elevated inflammatory markers.",
+        "Diagnosis": "Septic arthritis.",
+        "Treatment": "Joint lavage, systemic antibiotics, and pain management."
+    },
+    {
+        "Animal Type": "Avian",
+        "Breed": "African Grey Parrot",
+        "Age": 9,
+        "Medical History": "Previously treated for vitamin A deficiency.",
+        "Symptoms": "Respiratory distress, nasal discharge, and poor feather quality.",
+        "Blood test results": "Mild anemia and hypovitaminosis A.",
+        "Diagnosis": "Chronic respiratory infection secondary to vitamin A deficiency.",
+        "Treatment": "Vitamin A supplementation, antibiotics, and supportive care."
+    },
+    {
+        "Animal Type": "Canine",
+        "Breed": "Poodle",
+        "Age": 6,
+        "Medical History": "No prior conditions.",
+        "Symptoms": "Hair loss, pruritus, and thickened skin.",
+        "Blood test results": "Elevated cortisol levels.",
+        "Diagnosis": "Cushing's disease.",
+        "Treatment": "Trilostane therapy and dietary management."
+    },
+    {
+        "Animal Type": "Feline",
+        "Breed": "Himalayan",
+        "Age": 10,
+        "Medical History": "Managed for asthma with bronchodilators.",
+        "Symptoms": "Wheezing, coughing, and exercise intolerance.",
+        "Blood test results": "Eosinophilia detected.",
+        "Diagnosis": "Chronic feline asthma.",
+        "Treatment": "Inhaled corticosteroids and bronchodilator therapy."
+    },
+    {
+        "Animal Type": "Reptile",
+        "Breed": "Red-eared Slider",
+        "Age": 3,
+        "Medical History": "No significant history.",
+        "Symptoms": "Shell softening, lethargy, and reduced appetite.",
+        "Blood test results": "Low calcium and vitamin D levels.",
+        "Diagnosis": "Metabolic bone disease.",
+        "Treatment": "Calcium supplementation, UVB exposure, and dietary improvement."
+    },
+    {
+        "Animal Type": "Equine",
+        "Breed": "Mustang",
+        "Age": 14,
+        "Medical History": "Treated for colic 1 year ago.",
+        "Symptoms": "Weight loss, poor coat condition, and intermittent diarrhea.",
+        "Blood test results": "Mild anemia and low albumin levels.",
+        "Diagnosis": "Equine gastrointestinal parasitism.",
+        "Treatment": "Anthelmintic therapy and nutritional support."
+    },
+    {
+        "Animal Type": "Canine",
+        "Breed": "Bulldog",
+        "Age": 4,
+        "Medical History": "No significant history.",
+        "Symptoms": "Snoring, labored breathing, and exercise intolerance.",
+        "Blood test results": "No systemic abnormalities detected.",
+        "Diagnosis": "Brachycephalic obstructive airway syndrome (BOAS).",
+        "Treatment": "Surgical correction and weight management."
+    },
+    {
+        "Animal Type": "Feline",
+        "Breed": "Abyssinian",
+        "Age": 3,
+        "Medical History": "No significant history.",
+        "Symptoms": "Anorexia, jaundice, and lethargy.",
+        "Blood test results": "Elevated liver enzymes and bilirubin.",
+        "Diagnosis": "Feline hepatic lipidosis.",
+        "Treatment": "Nutritional support, appetite stimulants, and IV fluids."
+    },
+    {
+        "Animal Type": "Avian",
+        "Breed": "Canary",
+        "Age": 2,
+        "Medical History": "No prior conditions.",
+        "Symptoms": "Feather plucking, lethargy, and weight loss.",
+        "Blood test results": "Elevated white blood cell count.",
+        "Diagnosis": "Psittacine beak and feather disease.",
+        "Treatment": "Supportive care and environmental management."
+    },
+    {
+        "Animal Type": "Equine",
+        "Breed": "Paint Horse",
+        "Age": 7,
+        "Medical History": "No significant history.",
+        "Symptoms": "Intermittent lameness, heat in the hock, and swelling.",
+        "Blood test results": "Elevated inflammatory markers.",
+        "Diagnosis": "Equine osteoarthritis.",
+        "Treatment": "Intra-articular corticosteroids and joint supplements."
+    },
+    {
+        "Animal Type": "Canine",
+        "Breed": "Chihuahua",
+        "Age": 12,
+        "Medical History": "History of collapsing trachea.",
+        "Symptoms": "Persistent coughing, gagging, and respiratory distress.",
+        "Blood test results": "No significant abnormalities.",
+        "Diagnosis": "Advanced collapsing trachea.",
+        "Treatment": "Cough suppressants, bronchodilators, and potential surgical intervention."
+    },
+    {
+        "Animal Type": "Canine",
+        "Breed": "Mixed-breed",
+        "Age": 11,
+        "Medical History": "Soft tissue injury or ligament strain, treated with NSAIDs.",
+        "Symptoms": "Limping on left front limb, yelping, lameness.",
+        "Blood test results": "No abnormalities detected.",
+        "Diagnosis": "Soft tissue injury or ligament strain.",
+        "Treatment": "NSAIDs."
+    },
+    {
+        "Animal Type": "Canine",
+        "Breed": "American Eskimo",
+        "Age": 12,
+        "Medical History": "Urinary bladder mass and calculi, treated with NSAIDs and monitored.",
+        "Symptoms": "Pollakiuria, polydipsia, hematuria, small calculi, urinary bladder mass.",
+        "Blood test results": "Increased creatinine and BUN levels.",
+        "Diagnosis": "Urinary bladder mass and calculi.",
+        "Treatment": "NSAIDs, monitoring."
+    },
+    {
+        "Animal Type": "Canine",
+        "Breed": "Mixed-breed",
+        "Age": 14,
+        "Medical History": "Acute intervertebral disc disease, treated with tramadol.",
+        "Symptoms": "Inability to walk, vomiting, history of intervertebral disc disease.",
+        "Blood test results": "Mildly elevated white blood cell count.",
+        "Diagnosis": "Acute intervertebral disc disease.",
+        "Treatment": "Tramadol."
+    },
+    {
+        "Animal Type": "Canine",
+        "Breed": "Australian Shepherd",
+        "Age": 9,
+        "Medical History": "Mammary gland tumor, surgical consultation under consideration.",
+        "Symptoms": "Mammary mass, ulceration, bleeding.",
+        "Blood test results": "Anemia due to chronic blood loss.",
+        "Diagnosis": "Mammary gland tumor.",
+        "Treatment": "Surgical consultation for mass removal."
+    },
+    {
+        "Animal Type": "Feline",
+        "Breed": "American Domestic Shorthair",
+        "Age": 8,
+        "Medical History": "Hepatic lipidosis, treated with IV fluids, antibiotics, blood transfusion, and steroids.",
+        "Symptoms": "Lethargy, anorexia, jaundice, anemia, increased liver enzymes.",
+        "Blood test results": "Elevated liver enzymes, mild anemia.",
+        "Diagnosis": "Hepatic lipidosis.",
+        "Treatment": "IV fluids, antibiotics, blood transfusion, steroids."
+    },
+    {
+        "Animal Type": "Feline",
+        "Breed": "American Domestic Shorthair",
+        "Age": 2,
+        "Medical History": "Chronic inflammatory disease, treated with NSAIDs, antibiotics, and supportive care.",
+        "Symptoms": "Lethargy, anorexia, weight loss, abdominal distension, increased serum globulins.",
+        "Blood test results": "Elevated serum globulins.",
+        "Diagnosis": "Chronic inflammatory disease.",
+        "Treatment": "NSAIDs, antibiotics, supportive care."
+    },
+    {
+        "Animal Type": "Feline",
+        "Breed": "Domestic Shorthair",
+        "Age": 12,
+        "Medical History": "Renal disease, treated with mirtazapine and tramadol.",
+        "Symptoms": "Vomiting, anorexia, enlarged kidneys.",
+        "Blood test results": "Elevated creatinine and BUN levels.",
+        "Diagnosis": "Renal disease.",
+        "Treatment": "Mirtazapine, tramadol."
+    },
+    {
+        "Animal Type": "Reptile",
+        "Breed": "Chicken Turtle",
+        "Age": 1,
+        "Medical History": "Hemogregarine infection, treated with supportive care and healthy enclosure adjustments.",
+        "Symptoms": "Decreased activity, decreased appetite, history of dystocia and anemia.",
+        "Blood test results": "Anemia, low red blood cell count.",
+        "Diagnosis": "Hemogregarine infection.",
+        "Treatment": "Supportive care, healthy enclosure adjustments."
+    },
+    {
+        "Animal Type": "Porcine",
+        "Breed": "Yorkshire",
+        "Age": 3,
+        "Medical History": "Received intramuscular iron injection; housed indoors with littermates and sow.",
+        "Symptoms": "Quiet, thin, pale mucous membranes, not gaining weight.",
+        "Blood test results": "Microcytic, hypochromic anemia.",
+        "Diagnosis": "Iron deficiency anemia.",
+        "Treatment": "Iron supplementation, supportive care."
+    },
+    {
+        "Animal Type": "Equine",
+        "Breed": "Unknown",
+        "Age": "Not specified",
+        "Medical History": "Developed a pectoral abscess one month ago, treated with phenylbutazone for fever.",
+        "Symptoms": "Pectoral abscess draining intermittently; systemic infection suspected.",
+        "Blood test results": "Leukocytosis with neutrophilia.",
+        "Diagnosis": "Suspected systemic mycotic infection.",
+        "Treatment": "Antimicrobial therapy."
+    },
+    {
+        "Animal Type": "Canine",
+        "Breed": "Bull Terrier",
+        "Age": 2,
+        "Medical History": "Adopted 1 week ago; lethargy, soft yellow stools, vomiting after deworming medication.",
+        "Symptoms": "Lethargic, depressed, pale mucous membranes, soft and distended abdomen, slight yellow skin coloration.",
+        "Blood test results": "Anemia and hyperbilirubinemia.",
+        "Diagnosis": "Suspected canine babesiosis.",
+        "Treatment": "Supportive care, blood transfusion, antiparasitic therapy."
+    },
+    {
+        "Animal Type": "Canine",
+        "Breed": "Rottweiler",
+        "Age": 3,
+        "Medical History": "History of chronic sneezing for 6 months, treated with corticosteroids and antibiotics; recent severe epistaxis treated with whole blood transfusions.",
+        "Symptoms": "Severe nasal bleeding, bleeding from both nostrils, sneezing with occasional blood spray.",
+        "Blood test results": "Mild thrombocytopenia.",
+        "Diagnosis": "Suspected mycotic rhinitis.",
+        "Treatment": "Antifungal treatment, possible surgical intervention."
+    },
+    {
+        "Animal Type": "Feline",
+        "Breed": "Unknown",
+        "Age": 8,
+        "Medical History": "Recently adopted; coughing intermittently since being found, increased frequency recently.",
+        "Symptoms": "Intermittent cough, rough hair coat, body condition score of 3/9.",
+        "Blood test results": "Eosinophilia, indicative of parasitic infection.",
+        "Diagnosis": "Suspected lungworm infection (Aelurostrongylus abstrusus).",
+        "Treatment": "Antiparasitic therapy, supportive care."
+    }
+]
